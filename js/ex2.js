@@ -1,4 +1,4 @@
-var curso = {
+/*var curso = {
     'titulo': "Aprenda programação em Python",
     'categoria': ['programação', 'tecnologia', 'python'],
     'n_aval_5_estrelas': 420,
@@ -55,4 +55,4 @@ function html(){
 return html;
 
 }
-document.getElementById("tabela").innerHTML = html();
+document.getElementById("tabela").innerHTML = html();*/
